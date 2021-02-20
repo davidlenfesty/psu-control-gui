@@ -1,0 +1,3 @@
+qtpy
+pyside2
+universal_usbtmc
